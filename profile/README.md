@@ -1,5 +1,5 @@
 # Cyber Security Club at UMass Lowell
-![Logo](logo.png)
+![Logo](profile/logo.png)
 
 Welcome to the UMass Lowell Cyber Security Club!
 
