@@ -17,4 +17,4 @@ Welcome to the UMass Lowell Cyber Security Club!
 
 ## Contact
 + [Our website](umlcyber.club)
-+ \<our email address\>
++ cybersec.uml@gmail.com
