@@ -1,6 +1,8 @@
-<img src="profile/logo.png" alt="Club Logo" class="center">
+<div align="center">
+    <img src="logo.png" alt="Club Logo">
+    <h4 align="center">Welcome to the UMass Lowell Cyber Security Club!</h4>
+</div>
 
-Welcome to the UMass Lowell Cyber Security Club!
 
 ## What we do
 + Weekly Meetings
