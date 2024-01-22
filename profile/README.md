@@ -10,9 +10,9 @@
 + Collegiate Cyber Defense Competition (CCDC)
 
 ## Meeting Schedule
-+ Every Wednesday, 6-8pm
++ Every Monday, 6-8pm
 + Wannalancit Mills, 650 Suffolk Street
-  + Cyber Range (see discord #whereis-cyberrange for detailed directions)
+  + Cyber Range (see discord #whereis-cyberrange for detailed directions or see [CyberRangeDirections](/Spring-2024/Cyber-Range-Directions/README.md)
 
 ## How to Join
 + [Discord Invite Link](https://discord.gg/dQ49k7fufk)
