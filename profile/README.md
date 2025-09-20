@@ -6,11 +6,11 @@
 
 ## What we do
 + Weekly Meetings
-+ Capture the Flag (CTF) Competitions
-+ Collegiate Cyber Defense Competition (CCDC)
++ Penetration Testing & Cyber Defense
++ Collegiate Cyber Defense Competition (CCDC) & Collegiate Penetration Testing Competition (CPTC)
 
 ## Meeting Schedule
-+ Every Monday, 6-8pm
++ Every Wednesday, 5-7pm
 + Wannalancit Mills, 650 Suffolk Street
   + Cyber Range (see discord #whereis-cyberrange for detailed directions or see [Cyber Range Directions](../../../Spring-2024/blob/main/Cyber-Range-Directions/README.md)
 
